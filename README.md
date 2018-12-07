@@ -1,4 +1,7 @@
 # Adobe User Sync Tool Configuration Wizard
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/adobe/ust-configapp.svg)](https://greenkeeper.io/)
+
 This is User Sync tool configuration wizard. It helps configure the User Sync tool with User Management API (Adobe.io), Enterprise Directory (LDAP) and sync settings.
 
 The User Sync Tool is a command-line tool that sync users and group information from an organization's Enterprise directory system to the Adobe Admin Console. The key goals of the User Sync Tool are to streamline the process of named user deployment and automate user management for all Enterprise customers.
