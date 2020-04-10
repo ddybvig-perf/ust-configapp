@@ -11,6 +11,8 @@ then your use, modification, or distribution of it requires the prior
 written permission of Adobe. 
 */
 
+//here is a comment
+
 import React, { Component } from 'react';
 import logo from './logo.png';
 import './App.css';
